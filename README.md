@@ -3,3 +3,7 @@
 <br>
 
 <img src="assets/code.gif" alt="Coder GIF" width="500" align="center">
+<br>
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+<a>
