@@ -2,7 +2,9 @@
 ## <samp>I'm Mohamed Khaled, Frontend Developer</samp> <img src="assets/mario_hello_big.gif" width="30">
 <br>
 
-<img src="assets/code.gif" alt="Coder GIF" width="250" align="center">
+<a href="https://app.daily.dev/Mohamed_Khaled1"><img src="https://github.com/Mohamed-Khaled-M/Mohamed-Khaled-M/blob/main/devcard.svg" width="200" alt="Mohamed Khaled's Dev Card"/></a>
+
+<!-- <img src="assets/code.gif" alt="Coder GIF" width="250" align="center"> -->
 
 **Currently working with:**
 
