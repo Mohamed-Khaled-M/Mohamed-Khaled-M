@@ -22,6 +22,7 @@
 
 **Learning:**
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -32,5 +33,5 @@
 <a href="mailto:Mohamed.khaled.dev1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/mohamed-khaled-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-### <samp>Visitor Count: </samp>
-![Visitor count](https://profile-counter.glitch.me/Mohamed-Khaled-M/count.svg)
+<!-- ### <samp>Visitor Count: </samp> -->
+<!-- ![Visitor count](https://profile-counter.glitch.me/Mohamed-Khaled-M/count.svg) -->
