@@ -3,7 +3,7 @@
 <br>
 
 <!-- <a href="https://app.daily.dev/Mohamed_Khaled1"><img src="https://github.com/Mohamed-Khaled-M/Mohamed-Khaled-M/blob/main/devcard.svg" width="400" alt="Mohamed Khaled's Dev Card"/></a> -->
-<a href="https://app.daily.dev/mohamed_khaled_dev"><img src="https://api.daily.dev/devcards/v2/eDc1Zj5LTs5zeb0ElChEi.png?type=default&r=4so" width="356" alt="Mohamed Khaled's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/mohamed_khaled_dev"><img src="https://api.daily.dev/devcards/v2/eDc1Zj5LTs5zeb0ElChEi.png?type=default&r=4so" width="356" alt="Mohamed Khaled's Dev Card"/></a> -->
 
 <!-- <img src="assets/code.gif" alt="Coder GIF" width="250" align="center"> -->
 
